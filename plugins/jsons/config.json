@@ -1,8 +1,8 @@
 {
-  "api_id": "",
-  "api_hash": "",
+  "api_id": "24509050",
+  "api_hash": "5981d85dea38a8c953838f56912d8fd5",
   "bot_enabled": true,
-  "sudo": [],
+  "sudo": [6002000013],
   "filter_words": true,
   "add_signature": false,
   "signature": ""
