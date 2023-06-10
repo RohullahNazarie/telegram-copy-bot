@@ -2,7 +2,7 @@
 
 """
 Forwarder bot v1.1.2
-Written by: https://github.com/mehdiirh
+Written by: https://github.com/RohullahNazarie
 
 1) Create an isolated virtual environment using: `python -m venv venv`
 2) Install requirements using: `pip install -r requirements.txt`
