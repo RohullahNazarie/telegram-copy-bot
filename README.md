@@ -1,5 +1,5 @@
 # 🤖 Telegram Copier Bot
-### Copy/Paste a channel messages to your channel
+### Copy/Paste a channel messages to your channel! 
 
 <br>
 This bot will copy/paste any message that arrives in a channel to your own channel
